@@ -7,6 +7,6 @@
     <span class="close">&times;</span>
     <h2>About Me</h2>
     <p>
-      I’m Koi Fish, a young car enthusiast capturing moments at car meets and events.
-      Photography is my way to tell stories through motion, details, and atmosphere.
+      I am Vzmama. I enjoy car culture and created this platform to share 
+  automotive experiences and events with others who appreciate it.
     </p>
