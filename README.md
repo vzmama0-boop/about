@@ -1,6 +1,6 @@
 <head>
 <meta charset="UTF-8">
-<title>About Me</title>
+<title>About</title>
 
 <style>
   :root {
