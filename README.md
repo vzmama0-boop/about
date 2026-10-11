@@ -86,7 +86,7 @@
     <span class="close">&times;</span>
     <h2>About Me</h2>
     <p>
-     Hi I am Zema. I enjoy car culture and created this platform to share 
+     Hi I am Yuzi. I enjoy car culture and created this platform to share 
   automotive experiences and events with others who appreciate it.
     </p>
   </div>
